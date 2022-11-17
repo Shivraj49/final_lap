@@ -1,5 +1,5 @@
 
-print("How man numbers you want to print")
+print("How many numbers you want to print ?")
 tNum = int (input())
 num1,num2,count= 0 ,1 ,0
 
